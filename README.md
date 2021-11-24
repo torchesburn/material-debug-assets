@@ -1,4 +1,4 @@
 # material-debug-assets
 
 
-by @vian
+assets by @vian
